@@ -1,0 +1,1 @@
+This paper represents a simple method for classifying dangerous websites that relies just on lexical URL analysis. The machine leaning models like Random Forest Classifier, XG Boost, and Light Gradient Boosting Machine are used to investigate the accuracy of web URL.
